@@ -15,5 +15,6 @@ FontStyle="Italic"
 Background="Aqua"
 Foreground="Black"
 VerticalAlignment="Center"
+HorizontalAlignment="Center"
 />
 </Window>
