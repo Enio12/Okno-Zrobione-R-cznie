@@ -17,5 +17,6 @@ Foreground="Black"
 VerticalAlignment="Center"
 HorizontalAlignment="Center"
 FontFamily="Arial"
+Opacity="0.5"
 />
 </Window>
