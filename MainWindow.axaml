@@ -9,5 +9,6 @@
         Height="300"
         WindowStartupLocation="CenterScreen">
 <TextBlock Text="Początek Końca"
-FontSize="43"/>
+FontSize="43"
+FontWeight="Black"/>
 </Window>
