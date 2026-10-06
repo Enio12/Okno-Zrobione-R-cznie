@@ -6,4 +6,5 @@
         x:Class="okno.MainWindow"
         Title="pierwsze okno">
     Witamy na avaloni!
+Commit 2 Witaj drogi użytkowniku.
 </Window>
