@@ -13,5 +13,6 @@ FontSize="43"
 FontWeight="Black"
 FontStyle="Italic"
 Background="Aqua"
+Foreground="Black"
 />
 </Window>
