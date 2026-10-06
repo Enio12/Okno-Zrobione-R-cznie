@@ -6,7 +6,8 @@
         x:Class="okno.MainWindow"
         Title="pierwsze okno"
         Width="600"
-        Height="300">
+        Height="300"
+        WindowStartupLocation="CenterScreen">
     Witamy na avaloni!
 Commit 2 Witaj drogi użytkowniku.
 </Window>
