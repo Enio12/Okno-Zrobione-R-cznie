@@ -8,6 +8,5 @@
         Width="600"
         Height="300"
         WindowStartupLocation="CenterScreen">
-    Witamy na avaloni!
-Commit 2 Witaj drogi użytkowniku.
+<TextBlock Text="Początek Końca"/>
 </Window>
